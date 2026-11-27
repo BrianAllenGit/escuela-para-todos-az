@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://brianallengit.github.io/escuela-para-todos-az/sitemap.xml

@@ -1,0 +1,102 @@
+{
+ "ed_page_en": {
+  "lang": "en",
+  "kind": "ed",
+  "url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/title-vi/title-vi-key-issues/equal-rights-public-education-regardless-of-immigrationcitizenship-status",
+  "title": "Equal Rights to Public Education Regardless of Immigration/Citizenship Status",
+  "html": "<p>The U.S. Supreme Court has affirmed that citizenship or immigration status of students, parents, or guardians cannot be used to bar students from public schools (Plyler v. Doe, 1982).</p>",
+  "doc_date": "Page last reviewed October 2, 2026",
+  "year": null,
+  "retrieved": "2026-11-27"
+ },
+ "ed_rescinded_en": {
+  "lang": "en",
+  "kind": "ed",
+  "url": "https://www.ed.gov/laws-and-policy/key-policy-letters/dear-colleague-letter-resources-ensuring-equal-access-education-immigrant-students-rescinded",
+  "title": "Dear Colleague Letter: Resources for Ensuring Equal Access to Education for Immigrant Students (Rescinded)",
+  "html": "<p>This letter has been formally rescinded by the Department and remains available on the web for historical purposes only.</p>",
+  "doc_date": "January 8, 2025",
+  "year": null,
+  "retrieved": "2026-11-27"
+ },
+ "toolkit_es": {
+  "lang": "es",
+  "kind": "ed",
+  "url": "https://ncela.ed.gov/sites/default/files/2023-04/enrolling-spanish.pdf",
+  "title": "Inscribir a su hijo en la escuela",
+  "html": "<h3>Derechos de la familia y del estudiante</h3>\n<p>Como miembro de una familia con hijos en edad escolar, usted tiene ciertos derechos. Esto es muy importante. El origen nacional, la ciudadanía o el estado migratorio de los padres no modifican este derecho. Por ejemplo:</p>\n<ul>\n<li>Según la ley federal, todos los niños, independientemente de su ciudadanía o residencia, tienen derecho a igual acceso a una educación pública gratuita.<sup>1</sup></li>\n<li>Las escuelas y los distritos escolares pueden solicitar los registros de vacunación y el comprobante de edad de una clínica o médico, así como el comprobante de domicilio (por ejemplo, una factura de servicios públicos que refleje su dirección actual). Consulte los sitios web de la escuela y del distrito para conocer los documentos necesarios para inscribir a su hijo en la escuela. Todos los estudiantes deben proporcionar esta información.</li>\n<li>Las escuelas no pueden solicitar documentación que prohibiría o desalentaría ilegalmente a un estudiante para inscribirse o asistir a la escuela.</li>\n<li>No se permite que las escuelas compartan información que pueda revelar la información personal de un estudiante, a menos que la ley lo permita o si usted lo autoriza por escrito.<sup>2</sup></li>\n<li>Las escuelas deben garantizar una comunicación significativa con los padres con dominio limitado del inglés en un idioma que puedan entender. Deben notificar a los padres con conocimientos limitados de inglés acerca de cualquier programa, servicio o actividad de un distrito escolar que se notifica a los padres que dominan el inglés.</li>\n</ul>\n<p class=\"fn\"><sup>1</sup> Los estudiantes con visas de no inmigrante F-1 o M-1 que asisten a escuelas privadas son responsables de pagar la matrícula, mientras que los titulares de visas F-1 que asisten a una escuela secundaria pública son responsables de pagar el costo total per cápita no subsidiado de asistir a la escuela (ver https://studyinthestates.dhs.gov/kindergarten-to-grade-12-schools).</p>\n<p class=\"fn\"><sup>2</sup> La información sobre la Ley de Privacidad y Derechos Educativos de Familia (FERPA, por sus siglas en inglés) puede encontrarse en https://studentprivacy.ed.gov/sites/default/files/resource_document/file/for-parents.pdf.</p>",
+  "doc_date": "Borrador 12-03-18",
+  "year": null,
+  "retrieved": "2026-11-27"
+ },
+ "toolkit_en": {
+  "lang": "en",
+  "kind": "ed",
+  "url": "https://ncela.ed.gov/sites/default/files/legacy/files/family_toolkit/EL-Family-Tool-Kit-Enrolling-Your-Child-in-School.pdf",
+  "title": "Enrolling Your Child in School",
+  "html": "<h3>Family and Student Rights</h3>\n<p>As a family member with school-aged children, you have certain rights. This is very important. A parents’ national origin, citizenship, or immigration status does not change this right. For example:</p>\n<ul>\n<li>Under federal law, all children, regardless of their citizenship or residency status, are entitled to equal access to a free public education.<sup>1</sup></li>\n<li>Schools and school districts can ask for immunization records and proof of age from a clinic or doctor, as well as proof of residency (for example, a utility bill that reflects your current address). Check the school and district websites to learn about the documents required to enroll your child in school. All students must provide this information.</li>\n<li>Schools cannot ask for documentation that would prohibit or unlawfully discourage a student from enrolling in or attending school.</li>\n<li>Schools are not allowed to share information that may reveal a student’s personal information, unless permitted by law or if you give them written permission.<sup>2</sup></li>\n<li>Schools must ensure meaningful communication with limited English proficient parents in a language they can understand. They must notify limited English proficient parents of information about any program, service, or activity of a school district that is called to the attention of parents who are proficient in English.</li>\n</ul>\n<p class=\"fn\"><sup>1</sup> Students with F-1 or M-1 non-immigrant visas attending private schools are responsible for paying tuition, while F-1 visa holders attending a public secondary school are responsible for paying the full, unsubsidized per capita cost of attending school (see https://studyinthestates.dhs.gov/kindergarten-to-grade-12-schools).</p>\n<p class=\"fn\"><sup>2</sup> Information about the Family Educational Rights and Privacy Act (FERPA) can be found at https://studentprivacy.ed.gov/sites/default/files/resource_document/file/for-parents.pdf.</p>",
+  "doc_date": "Rev. 12/03/2018",
+  "year": null,
+  "retrieved": "2026-11-27"
+ },
+ "qa1_en": {
+  "lang": "en",
+  "kind": "doj",
+  "url": "https://files.eric.ed.gov/fulltext/ED596830.pdf",
+  "title": "Information on the Rights of All Children to Enroll in School: Questions and Answers for States, School Districts and Parents",
+  "html": "<p><strong>Q - 1. Should a district inquire into the immigration or citizenship status of a student or parent 3 as a means of establishing the student’s residency in the district?</strong></p>\n<p>A - 1. No. Immigration or citizenship status is not relevant to establishing residency in the district, and inquiring about it in the context of establishing residency is unnecessary and may have a chilling or a discouraging effect on student enrollment.</p>\n<p class=\"fn\">3 For purposes of this guidance, the term “parent” also means guardian or other responsible person under state or local law.</p>",
+  "doc_date": "Revised as of May 8, 2014",
+  "year": null,
+  "retrieved": "2026-11-27"
+ },
+ "qa5_en": {
+  "lang": "en",
+  "kind": "doj",
+  "url": "https://files.eric.ed.gov/fulltext/ED596830.pdf",
+  "title": "Information on the Rights of All Children to Enroll in School: Questions and Answers for States, School Districts and Parents",
+  "html": "<p><strong>Q - 5. How can students show they meet a school’s age requirements?</strong></p>\n<p>A - 5. As with residency requirements, rules vary among states and districts as to what documents students may use to show they fall within state- or district-mandated minimum and maximum age requirements, and jurisdictions typically accept a variety of documents for this purpose. Depending on the state or district, alternative documents could include, but are not limited to: a religious, hospital, or physician’s certificate showing date of birth; an entry in a family bible; an adoption record; an affidavit from a parent; a birth certificate; previously verified school records; or any other documents permitted by law. School districts should make parents aware of any alternatives that exist as part of their efforts to ensure a welcoming and inclusive environment for all students.</p>\n<p>Requests for documents such as birth certificates must not unlawfully bar or discourage a prospective student from enrolling and attending school, including a student who is undocumented or has parents who are undocumented, or a child or youth who is homeless as defined by the McKinney-Vento Homeless Assistance Act (see Q-4, above). A school district may not bar or discourage a student from attending school because the student lacks a birth certificate or has records that indicate a foreign place of birth, such as a foreign birth certificate. Requests for documentation also may not discriminate, or have the effect of discriminating, on the basis of race, color, or national origin. All students must be treated equally in the enrollment process.</p>\n<p>A district, moreover, should not use a student’s birth certificate or other documentation provided by a parent as a basis for inquiring into the immigration status of the student, his or her parents, or other family members. Such requests would likely have a discouraging effect on the enrollment of a student on the basis of immigration status.</p>",
+  "doc_date": "Revised as of May 8, 2014",
+  "year": null,
+  "retrieved": "2026-11-27"
+ },
+ "qa7_en": {
+  "lang": "en",
+  "kind": "doj",
+  "url": "https://files.eric.ed.gov/fulltext/ED596830.pdf",
+  "title": "Information on the Rights of All Children to Enroll in School: Questions and Answers for States, School Districts and Parents",
+  "html": "<p><strong>Q - 7. In light of the Dear Colleague letter, should districts refrain from asking for students’ social security numbers?</strong></p>\n<p>A - 7. The Federal government does not prohibit states or districts from collecting the social security numbers of prospective or current students. States and local school districts must decide, however, whether they have a legally permissible reason to collect this information. If they choose to collect social security numbers, they should take steps to ensure the confidentiality of the social security numbers and that they are stored securely. In addition, they must follow Federal laws regulating the use of that information. For example, under governing Federal laws, if a district requests social security numbers, it must inform individuals that the disclosure is voluntary, and must explain both the statutory or other basis for seeking the numbers and how the district intends to use the numbers. See Privacy Act of 1974, Pub. L. No. 93-579, § 7, 5 U.S.C. § 552a (note), available at http://www.ssa.gov/OP_Home/comp2/F093-579.html.</p>\n<p>As the Dear Colleague letter makes clear, a district cannot deny enrollment to a student if he or she (or his or her parent) chooses not to provide the student’s social security number.5 Districts have alternatives to requesting social security numbers. For example, a district seeking to have student identification numbers could decide to assign a randomly selected number to each student. In this way, the state or district would avoid any chilling effect that a request for social security numbers may have on the enrollment of students because of their race, color, national origin, citizenship, or immigration status.</p>\n<p>A school district that opts to request social security numbers should make clear in all enrollment and registration documents, including forms, websites, and communications with parents, that the provision of the child’s social security number is voluntary, and that choosing not to provide a social security number will not bar a child’s enrollment.</p>\n<p class=\"fn\">5 Similarly, a school district cannot deny a student enrollment if his or her parent chooses not to provide his or her own social security number.</p>",
+  "doc_date": "Revised as of May 8, 2014",
+  "year": null,
+  "retrieved": "2026-11-27"
+ },
+ "qa8_en": {
+  "lang": "en",
+  "kind": "doj",
+  "url": "https://files.eric.ed.gov/fulltext/ED596830.pdf",
+  "title": "Information on the Rights of All Children to Enroll in School: Questions and Answers for States, School Districts and Parents",
+  "html": "<p><strong>Q - 8. How can a school district distinguish between (a) information that it should or must collect, and (b) information that it may not collect because doing so may discourage enrollment or attendance?</strong></p>\n<p>A - 8. There is typically only minimal information that a district is required to collect under state law for a student to be able to enroll, such as proof of age, immunization history, and residency within the district. Both the state and the district must act in compliance with the U.S. Constitution and valid Federal or state laws, including their obligations not to discriminate, or implement policies that have the effect of discriminating, on the basis of race, color, or national origin. In doing so, states and districts should also assess their current policies to determine whether they are doing anything that may have the effect, albeit unintended, of discouraging the enrollment of undocumented children, such as asking for immigration papers or social security numbers, or requiring a driver’s license or state-issued identification from a parent. Such practices and policies, once identified, should be changed to eliminate any possible chilling effect on enrollment.</p>",
+  "doc_date": "Revised as of May 8, 2014",
+  "year": null,
+  "retrieved": "2026-11-27"
+ },
+ "aclu_school_en": {
+  "lang": "en",
+  "kind": "az",
+  "url": "https://www.acluaz.org/publications/fact-sheet-undocumented-students-families-school/",
+  "title": "Fact Sheet: Undocumented Students & Families in School",
+  "html": "<h3>What You Need to Know</h3>\n<ul>\n<li>Schools cannot require students to provide a social security number and, consistent with <em>Plyler</em>, should identify a range of documents (e.g. birth certificate, family bible, parent affidavit) that may be used to establish a child’s age.</li>\n<li>To further remove barriers to enrollment, schools can limit the information required to enroll to proof of residency, proof of age, and immunization records, and request any other information after enrollment.</li>\n<li>Schools may not require students to provide proof of immigration status and should not ask students for information such as social security numbers or place of birth that may indicate a student’s immigration status.</li>\n<li>Schools should advise families about a range of means to establish proof of age.</li>\n</ul>",
+  "doc_date": "July 20, 2017",
+  "year": "2017",
+  "retrieved": "2026-11-27"
+ },
+ "ars_15_821_a": {
+  "lang": "en",
+  "kind": "az_leg",
+  "url": "https://www.azleg.gov/ars/15/00821.htm",
+  "title": "15-821. Admission of children; required age",
+  "html": "<h3>15-821. Admission of children; required age</h3>\n<p>A. Unless otherwise provided by article 1.1 of this chapter or by any other law, all schools shall admit children who are between the ages of six and twenty-one years, who reside in the school district and who meet the requirements for enrollment in one of the grades or programs offered in the school. A school may refuse to admit a child who has graduated from a high school with a recognized diploma.</p>",
+  "doc_date": "Subsection A",
+  "year": null,
+  "retrieved": "2026-11-27"
+ }
+}

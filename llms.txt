@@ -1,0 +1,30 @@
+# Escuela para todos · Arizona
+
+> A free, ad-free, zero-tracking one-page tool in Spanish and English for families in Arizona who ask "Can my child go to public school?" It quotes, word for word and with credit, what the U.S. Department of Education, the U.S. Department of Justice, the Arizona Legislature and the ACLU of Arizona say about enrolling a child regardless of immigration status, and it links to where to file a complaint. It gives general information, not legal advice. Read on 2026-11-27.
+
+## What it is
+- The answer is quoted, not paraphrased: the Department of Education's family guide (Spanish and English) says all children have the right to equal access to a free public education, and what documents schools may and may not ask for.
+- Questions and Answers from the Department of Justice and Department of Education (revised May 8, 2014), four items quoted in English; the ACLU of Arizona list "What You Need to Know" (2017); A.R.S. 15-821(A).
+- Two steps: enroll (ask the school or district which documents they ask for) and, if you think the school asked for papers it may not ask for, file a complaint with the ED Office for Civil Rights, the DOJ Civil Rights Division or the Arizona Attorney General (all links, all English forms).
+- A printable card (the answer and the steps).
+
+## Who it is for
+- Parents and guardians in Arizona, and the people who help them.
+
+## How to use it
+- Open the page, pick Spanish or English, read the quoted answer, use the steps. It works without JavaScript, stores nothing and has no analytics. The English view is the same page at ?lang=en.
+
+## Key links
+- Page: https://brianallengit.github.io/escuela-para-todos-az/
+- English view: https://brianallengit.github.io/escuela-para-todos-az/?lang=en
+
+## Sources
+- ED/NCELA family guide (Spanish): https://ncela.ed.gov/sites/default/files/2023-04/enrolling-spanish.pdf
+- ED OCR page (lists the 2014 documents): https://www.ed.gov/laws-and-policy/civil-rights-laws/title-vi/title-vi-key-issues/equal-rights-public-education-regardless-of-immigrationcitizenship-status
+- DOJ/ED Questions and Answers, 2014 (copy on ERIC): https://files.eric.ed.gov/fulltext/ED596830.pdf
+- ACLU of Arizona fact sheet: https://www.acluaz.org/publications/fact-sheet-undocumented-students-families-school/
+- A.R.S. 15-821: https://www.azleg.gov/ars/15/00821.htm
+- Arizona Attorney General, resources for schools: https://www.azag.gov/resources-for-schools
+
+## Limits
+- Not legal advice. The 2014 DOJ originals no longer open at their old addresses; the 2014 letter and fact sheet could not be read and are not quoted. The Spanish guide is stamped as a draft. A different 2025 ED letter was rescinded. Talk to a lawyer or legal aid group about your own case.

@@ -1,0 +1,8 @@
+ed_filecomplaint https://www.ed.gov/laws-and-policy/civil-rights-laws/file-complaint
+ocr_portal https://ocrcas.ed.gov/
+crt_report https://civilrights.justice.gov/
+crt_report_es https://civilrights.justice.gov/es
+azag_civil https://www.azag.gov/complaints/civil-rights
+azag_terms https://www.azag.gov/terms-use
+azleg_terms https://www.azleg.gov/disclaimer/
+azleg_home https://www.azleg.gov/

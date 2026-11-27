@@ -1,0 +1,2 @@
+crt_report_page https://civilrights.justice.gov/report/
+ed_ocr_howto https://www.ed.gov/laws-and-policy/civil-rights-laws/file-complaint

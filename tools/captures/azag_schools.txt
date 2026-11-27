@@ -1,0 +1,150 @@
+Skip to main content
+State of Arizona
+Visit OpenBooks
+Ombudsman Citizens Aide
+Register to Vote
+Search
+Home
+Resources For Schools
+Resources for Schools
+ 
+Attorney General Kris Mayes is committed to safeguarding the rights of all Arizona students to a free public education, regardless of their race, national origin, immigration status, or language proficiency. The U.S. Supreme Court has long held that students may not be denied access to a free public education based on their immigration status or that of their parents or guardians. The Arizona Constitution likewise guarantees access to a free public education for all children ages 6 to 21 who reside in this state.
+The Attorney General’s Office has received questions from school administrators, educators, and parents concerned about how changes to federal immigration policies will affect their schools and communities. The purpose of this website is to provide links to relevant and applicable legal authorities and to provide limited guidance regarding law enforcement access to school property and school records.
+This website is intended as guidance only. It is neither legal advice nor a formal legal opinion of the Attorney General. School districts and parents are encouraged to consult legal counsel about specific questions or concerns.
+RELEVANT STATUTES AND REGULATIONS
+Federal Law:
+
+Plyler v. Doe 
+
+In Plyler v. Doe, 457 U.S. 202 (1982), the United States Supreme Court held that a State may not deny access to a basic public education to any child residing in the State, whether present in the United States legally or otherwise. 
+
+Note: Arizona’s Constitution contains an equal protection guarantee similar to the United States Constitution. See Ariz. Const. art. II, § 13; see also Coleman v. City of Mesa, 230 Ariz. 352, 361 ¶ 39 (2012) (equating federal and state equal protection standards). 
+
+Title VI of the Civil Rights Act of 1964
+
+The Civil Rights Act of 1964 prohibits discrimination on the grounds of race, color, or national origin by entities that receive federal financial support. Title VI prohibits denial of equal access to education because of limited English proficiency. It also prohibits barring or discouraging students’ enrollment in elementary and secondary school based on their or their parents’ actual or perceived immigration status.
+
+The Family Educational Rights and Privacy Act (“FERPA”)
+
+The Family Educational Rights and Privacy Act, FERPA, is a federal law that affords parents the right to access their children’s education records, the right to seek to amend the records, and the right to consent to the disclosure of personally identifiable information from education records, except as provided by law.
+
+Note: A.R.S. § 15-141 incorporates FERPA and provides that parents may obtain injunctive or special action relief for FERPA violations “regardless of whether” the educational institution receives federal funds.
+
+McKinney-Vento Homeless Assistance Act
+
+The McKinney-Vento Homeless Assistance Act delineates educational rights and support for children and youth experiencing homelessness, including guaranteeing immediate access to a free, appropriate public education. Under federal law, states and local educational agencies (or school districts) must provide all children—regardless of immigration status—with equal access to elementary and secondary public education. Undocumented students can be eligible for rights and services under the McKinney-Vento Act if they are experiencing homelessness.
+
+Arizona Law:
+
+The Arizona Constitution establishes “education as a fundamental right of pupils between the ages of six and twenty-one years,” Shofstall v. Hollins, 110 Ariz. 88, 90 (1973); see also Ariz. Const. art. XI, §§ 1, 6 (requiring a “general and uniform public school system” and schools “open to all pupils” between those ages). 
+
+Arizona schools “shall admit children who are between the ages of six and twenty-one years, who reside in the school district and who meet the requirements for enrollment in one of the grades or programs offered in the school.” A.R.S. § 15-821(A). 
+
+Arizona law does not require parents to provide or schools to collect proof of citizenship for any child to enroll in an Arizona school. See A.R.S. § 15-802(B) (schools “shall require and maintain verifiable documentation of residency in this state” for enrolled pupils); A.R.S. § 15-828 (providing that, when enrolling a child in school for the first time, parents or guardians must present either (1) a certified copy of the child’s birth certificate, or (2) other “reliable proof of the pupil's identity … and an affidavit explaining the inability to provide a copy of the birth certificate”).
+
+LAW ENFORCEMENT ACCESS TO SCHOOL PROPERTY
+
+This Office has previously observed that school officials “must exercise reasonable care to guard against the unauthorized or illegal removal of students while on school grounds.” Ariz. Att’y Gen. Op I82-094, 1982 WL 43945, at *1 (Sept. 8, 1982). When fulfilling that duty, schools should “ask[] anyone who wishes to remove a child from school property,” including law enforcement officers or agents, “to confirm his or her authority to so act.” Id.
+
+In the absence of an emergency, if federal immigration authorities seek access to a student while on school grounds, schools should confirm that the law enforcement officer is acting pursuant to a valid judicial warrant. Schools should also make and retain copies of any warrant presented by law enforcement. Absent a valid judicial warrant, schools should only release a student to someone other than the student’s parent or legal guardian upon the written and signed consent of the student’s parent or legal guardian. 
+
+Schools should consider developing or updating policies and procedures for interactions with law enforcement and designating a point of contact who can interact with law enforcement or answer questions about law enforcement requests. Schools should also consider training teachers and staff about how to implement such policies and procedures. Schools may wish to consult with legal counsel to assist with the development of policies, procedures, and trainings. 
+
+DIFFERENCES BETWEEN JUDICIAL WARRANTS AND ADMINISTRATIVE WARRANTS
+
+A judicial warrant is a court-issued legal document that authorizes law enforcement to take specific actions, such as arresting an individual, searching a location, or seizing property. Unlike ICE administrative warrants, which are issued without judicial oversight, judicial warrants must be signed by a neutral judge or magistrate based on a finding of probable cause. 
+
+ICE administrative warrants can take the following forms:
+
+Form I-200: Warrant for Arrest of Alien
+
+Form I-205: Warrant of Removal/Deportation
+
+A Notice to Appear (NTA), Form I-862, is not a “warrant.” An NTA notifies an individual that they are expected to appear before an immigration judge on a certain date. It does not authorize an individual’s arrest.
+
+ICE administrative warrants do not authorize entry or search without consent where there is a reasonable expectation of privacy. Nonpublic areas of schools are spaces where individuals may have a reasonable expectation of privacy. 
+
+Some of the links in the Resources section contain samples of judicial and administrative warrants. 
+
+LAW ENFORCEMENT ACCESS TO SCHOOL RECORDS
+
+Generally, schools may not release the personally identifiable information (“PII”) of a student unless the PII is directory information, 34 C.F.R. § 99.37, or is being provided in response to a judicial order or lawfully issued subpoena, 34 C.F.R. § 99.31(a)(9)(i).
+
+Directory information is PII that would not be “considered harmful or an invasion of privacy” if disclosed, such as a student’s name or phone number. 34 C.F.R. § 99.3. Schools may disclose directory information if they have given notice to parents and students of the types of PII that the school designates as directory information, and the right of parents or students to opt out. 34 C.F.R. § 99.37(a). Schools should consult with legal counsel to understand what information they have designated as directory information and determine whether they would like to re-designate any information. Schools are not required to collect information about a student’s immigration status, citizenship, or national origin. Nor are schools required to designate such information as directory information. 
+
+Schools should follow FERPA and A.R.S. § 15-141 when considering law enforcement requests to access school records. Schools should make and retain copies of any judicial orders or subpoenas provided by law enforcement and make reasonable efforts to notify a student’s parent or legal guardian in writing prior to complying. 34 C.F.R. § 99.31(a)(9)(i). 
+
+Schools may receive subpoenas that request records. As with warrants, subpoenas can be issued judicially or administratively. And as with warrants, administrative subpoenas may not impose the same requirements that judicial subpoenas impose. Schools should consult with legal counsel to ensure that proper procedures are in place to handle subpoenas. And when a subpoena is received, copies should be made and counsel should be consulted if there are any questions about the obligations the subpoena does (or doesn’t) impose on the school.
+
+Some of the links in the Resources section contain samples of judicial and administrative subpoenas. 
+
+BULLYING AND HARASSMENT
+
+Federal law prohibits harassment or bullying on the basis of race, color, or national origin. 42 U.S.C. § 2000d. Arizona law requires school district governing boards to prescribe and enforce policies “to prohibit pupils from harassing, intimidating and bullying other pupils” while at school, on school property, at school-sponsored events and activities, and electronically. A.R.S. § 15-341(A)(36). Such policies must include a “procedure for pupils, parents, and school district employees to confidentially report … incidents of harassment, intimidation, and bullying.” Id.(A)(36(a). Schools should review their bullying and harassment policies and confirm that they are readily accessible to students, parents, and teachers. 
+
+POTENTIAL ACTIONS SCHOOLS MIGHT CONSIDER TAKING:
+
+There are many things schools and districts can do right now to alleviate confusion and provide reassurance to parents and students. Here are a few:
+
+Reaffirm Commitment: Clearly communicate to parents, guardians, and students your dedication to providing all children with a free public education, safeguarding student privacy, and fostering a secure and supportive learning environment. Develop clear policies and communicate those policies to parents, guardians, and students.
+
+Protect Student Data: Ensure that policies regarding student data-sharing are current and accessible to staff members who handle student records. 
+
+Staff Training: Conduct training sessions to ensure staff members understand and properly implement school policies regarding immigration enforcement and student privacy. 
+
+Establish Response Protocols: Develop clear procedures for staff to follow if ICE seeks access to campus or requests information.
+
+Designate a Point of Contact for ICE: Appoint a designated staff member or department to handle ICE interactions. If immigration officers arrive on campus, this individual should document their actions, take note of any requests, and retain copies of officers’ identification documents, warrants, or subpoenas.
+
+Emergency Contact Updates: Provide parents and guardians with opportunities to update their child’s emergency contact information, alternate caretaker contacts, and authorized pick-up designees. 
+
+Address Bullying and Harassment: Ensure that any reported incidents of bullying and harassment are promptly investigated and appropriately addressed. 
+
+Family Emergency Planning: Share resources with families to help them develop an emergency preparedness plan. Refer to resources section for additional information. 
+
+RESOURCES 
+
+Below is a list of resources that may be relevant or helpful for schools and parents as they prepare for the possibility of changes to federal immigration law enforcement. The Attorney General’s Office provides these resources for information only and is not affiliated with and does not endorse any organization mentioned below.
+
+Guidance from the School Superintendents Association
+Protocols for Non-Local Law Enforcement from New York City Public Schools
+Guidance from the National Immigration Law Center explaining the differences between administrative and judicial warrants as well as administrative and judicial subpoenas
+Aliento’s Defense and Preparation Plan
+Family Preparedness Plan from Immigrant Legal Resource Center (ILRC)
+ILRC’s red cards, which detail legal rights for immigrants if targeted by federal immigration agents
+What to do if ICE Visits Your School: Sample Policies and Guidance from School Districts and States
+American Civil Liberties Union 
+Southern Arizona Legal Aid, Inc.
+Chicanos Por La Causa 
+The Florence Project
+University of Arizona Community Immigration Law Placement Clinic
+Arizona State University Immigration Clinic
+View Events Calendar
+
+Want to learn more about our upcoming events?
+
+View Events
+
+Subscribe to AGO Newsletter
+
+  
+
+       
+  Subscribe to the General Report for the latest actions, news and stories from the Arizona Attorney General's Office.
+Contact
+
+Arizona Attorney General's Office
+
+2005 N Central Ave
+
+Phoenix, AZ 85004
+
+(602) 542-5025
+Footer
+Statewide Policies
+Website accessibility
+Content disclaimer
+Privacy policy
+Security
+Sitemap
+    

@@ -1,0 +1,6 @@
+ed_equal https://www.ed.gov/laws-and-policy/civil-rights-laws/title-vi/title-vi-key-issues/equal-rights-public-education-regardless-of-immigrationcitizenship-status
+ed_rescinded https://www.ed.gov/laws-and-policy/key-policy-letters/dear-colleague-letter-resources-ensuring-equal-access-education-immigrant-students-rescinded
+azag_schools https://www.azag.gov/index.php/resources-for-schools
+azleg_821 https://www.azleg.gov/ars/15/00821.htm
+terms_ed https://www.ed.gov/about/ed-overview/ed-website-policies
+terms_doj https://www.justice.gov/legalpolicies
